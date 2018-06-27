@@ -1,2 +1,2 @@
 # html-calculator
-简单的计算机
+简单的计算器
